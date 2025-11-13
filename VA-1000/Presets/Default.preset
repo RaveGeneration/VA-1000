@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" progName="Default" currentPresetFilePath="Default.preset" currentPresetFileRoot="1" MIDIInputDefault="1" MIDIOutputDefault="1" MIDIProgramChangeChannel="-1" cycleNextPrevPresetInBank="0" midiOutForProgramChangeEnabled="0" midiOutForBankSelectEnabled="0">
+    <MIDIController.meta locked="0"/>
+    <MIDINextPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDINextBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <inputParams count="75" p0="0" p1="1" p2="0" p3="0" p4="0" p5="0" p6="0" p7="0" p8="0" p9="0" p10="50" p11="10" p12="0" p13="5" p14="20" p15="0" p16="0" p17="2" p18="10" p19="1" p20="50" p21="100" p22="0" p23="50" p24="1" p25="0" p26="0" p27="0" p28="1000" p29="1" p30="0" p31="0" p32="100" p33="0" p34="50" p35="0" p36="0.010000000000000000208" p37="0.2999999999999999889" p38="0" p39="0" p40="0" p41="0" p42="1" p43="0" p44="0" p45="0" p46="12" p47="-12" p48="0" p49="0" p50="2" p51="50" p52="125" p53="6" p54="50" p55="0" p56="375" p57="50" p58="3750" p59="0" p60="0" p61="0" p62="0" p63="0" p64="0" p65="0" p66="75" p67="0" p68="150" p69="0" p70="0" p71="0" p72="0" p73="0" p74="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <model/>
+    <GUI version="1" useDefault="1" skinZoom="1.5" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="2">
+                    <p0 name="global_opacity" value="100"/>
+                    <p1 name="persistent_param" value="0"/>
+                </params>
+                <strings sCount="2">
+                    <s0 name="persistent_string" value="234234"/>
+                    <s1 name="persistent_string2" value="2342344"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

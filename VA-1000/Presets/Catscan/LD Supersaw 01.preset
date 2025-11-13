@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="75" p0="0" p1="0.92950391644908614275" p2="0" p3="0" p4="0" p5="1" p6="0" p7="0" p8="0.375" p9="0.11249999999999715783" p10="50" p11="10" p12="0" p13="5" p14="328.125" p15="0" p16="0" p17="7.3125" p18="92.96875" p19="2" p20="55.46875" p21="100" p22="91.40625" p23="53.125" p24="0.99216710182767620108" p25="0" p26="0" p27="0" p28="1000" p29="1" p30="0" p31="0" p32="154" p33="0.10182767624020887254" p34="50" p35="0" p36="0.010000000000000000208" p37="0.046875" p38="0" p39="0.75" p40="0" p41="0" p42="1" p43="0" p44="0" p45="0" p46="12" p47="-11.921671018276761345" p48="0" p49="7" p50="39.793749999999995737" p51="31.25" p52="125" p53="6" p54="50" p55="14.84375" p56="375" p57="50" p58="3750" p59="24.21875" p60="1" p61="0" p62="0" p63="0" p64="1" p65="0.078125" p66="100" p67="35" p68="150" p69="11.25" p70="10.078125" p71="0" p72="0" p73="0" p74="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="2">
+                    <p0 name="global_opacity" value="100"/>
+                    <p1 name="persistent_param" value="0"/>
+                </params>
+                <strings sCount="2">
+                    <s0 name="persistent_string" value="234234"/>
+                    <s1 name="persistent_string2" value="2342344"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
