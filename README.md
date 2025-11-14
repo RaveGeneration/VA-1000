@@ -2,7 +2,6 @@
 
 Windows:
 C:\Users\[username]\Documents\Rave Generation\VA-1000\Presets
-
 MacOS:
 ~/Documents/Rave Generation/VA-1000/Presets
 
