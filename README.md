@@ -1,6 +1,7 @@
 **Presets Location**
 
 Windows: C:\Users\[username]\Documents\Rave Generation\VA-1000\Presets
+
 MacOS: ~/Documents/Rave Generation/VA-1000/Presets
 
 1) On Windows presets are installed automatically during installation.
