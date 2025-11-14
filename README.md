@@ -1,4 +1,4 @@
-Presets Location
+**Presets Location**
 
 Windows:
 C:\Users\[username]\Documents\Rave Generation\VA-1000\Presets
