@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="87" p0="0" p1="0.87206266318537862" p2="0.92428198433420361" p3="1" p4="0.16710182767624021" p5="0.80678851174934729" p6="12" p7="0.375" p8="0" p9="12" p10="72.5" p11="21.09375" p12="57.03125" p13="4.375" p14="10.9375" p15="28.90625" p16="0" p17="5.1875" p18="100" p19="2" p20="32.03125" p21="100" p22="100" p23="35.15625" p24="0.53785900783289819" p25="0" p26="0" p27="39" p28="1000" p29="1" p30="107" p31="0" p32="0" p33="0" p34="0" p35="-0.65625" p36="0" p37="0" p38="0" p39="14.25" p40="0" p41="0" p42="1" p43="0" p44="0" p45="0" p46="12" p47="-27.775456919060048" p48="0" p49="1" p50="2.4964843749999996" p51="3.90625" p52="115.234375" p53="7.0377343749999994" p54="32.8125" p55="14.0625" p56="375" p57="24.21875" p58="5070" p59="0" p60="5" p61="23" p62="74.673629242819842" p63="0" p64="4" p65="0.078125" p66="100" p67="11" p68="484" p69="15" p70="15" p71="0" p72="7" p73="-45" p74="0" p75="0.10000000000000001" p76="0" p77="0" p78="0" p79="0" p80="0" p81="6" p82="80" p83="100" p84="1" p85="0" p86="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <internalDSPState/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="5">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="new_script_wizard_enabled" value="0"/>
+                    <p3 name="skin_scanner_enabled" value="0"/>
+                    <p4 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

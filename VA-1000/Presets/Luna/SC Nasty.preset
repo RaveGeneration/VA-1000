@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="87" p0="0" p1="1" p2="0" p3="0" p4="0" p5="0" p6="0" p7="-1.125" p8="0" p9="0" p10="50" p11="10" p12="64.84375" p13="8" p14="125.78125" p15="89.84375" p16="0" p17="7" p18="75.78125" p19="1" p20="42.96875" p21="100" p22="8.59375" p23="89.84375" p24="0.47258485639686681" p25="0.14992167101827678" p26="87.5" p27="0" p28="796" p29="0.16187989556135771" p30="0" p31="0" p32="525" p33="0.22454308093994779" p34="219" p35="0.25" p36="0.01" p37="4.21875" p38="0.3984375" p39="24" p40="0" p41="5" p42="1" p43="0" p44="0" p45="0" p46="12" p47="-9.1644908616188019" p48="1" p49="19" p50="19.073046874999999" p51="33.59375" p52="52.734375" p53="8.287109375" p54="60.15625" p55="0" p56="375" p57="32.03125" p58="4918" p59="17.1875" p60="3" p61="0" p62="0" p63="0" p64="0" p65="-5" p66="67.1875" p67="80" p68="2000" p69="0" p70="-5.625" p71="0" p72="5" p73="8" p74="0" p75="3.359375" p76="0.78125" p77="0" p78="-5" p79="64.84375" p80="0" p81="2" p82="16" p83="98" p84="0" p85="0" p86="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <internalDSPState/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="5">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="new_script_wizard_enabled" value="0"/>
+                    <p3 name="skin_scanner_enabled" value="0"/>
+                    <p4 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

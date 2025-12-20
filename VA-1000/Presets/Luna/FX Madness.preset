@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="87" p0="0" p1="0.87728459530026115" p2="1" p3="0" p4="0" p5="1" p6="0.375" p7="0" p8="-0.75" p9="24" p10="50" p11="50" p12="61.71875" p13="6.375" p14="295.3125" p15="8.59375" p16="0" p17="7.0625" p18="60.9375" p19="1" p20="50" p21="100" p22="0" p23="50" p24="0.8433420365535248" p25="0.48595300261096608" p26="71.875" p27="0" p28="1000" p29="0.3838120104438642" p30="0" p31="1000" p32="480" p33="0.12532637075718014" p34="0" p35="-0.375" p36="1.640625" p37="5.703125" p38="0" p39="8.25" p40="0" p41="0" p42="1" p43="0" p44="1" p45="0" p46="12" p47="-29.6710182767624" p48="3" p49="1" p50="4.1541406249999993" p51="67.96875" p52="125" p53="6" p54="75.78125" p55="15.625" p56="375" p57="50" p58="3750" p59="0" p60="0" p61="23" p62="35.770234986945169" p63="1" p64="2" p65="0" p66="78.125" p67="9" p68="125" p69="15" p70="15" p71="0" p72="12" p73="-22" p74="37.336814621409921" p75="0.10000000000000001" p76="0" p77="0" p78="0" p79="64.84375" p80="0" p81="1" p82="80" p83="98" p84="0" p85="0" p86="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <internalDSPState/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="5">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="new_script_wizard_enabled" value="0"/>
+                    <p3 name="skin_scanner_enabled" value="0"/>
+                    <p4 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>

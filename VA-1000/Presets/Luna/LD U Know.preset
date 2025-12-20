@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="87" p0="0" p1="1" p2="0" p3="0" p4="0" p5="0" p6="-12" p7="-12" p8="0" p9="0" p10="32.5" p11="54.6875" p12="15.625" p13="5" p14="20" p15="0" p16="0" p17="2" p18="10" p19="1" p20="50" p21="100" p22="0" p23="50" p24="0.21409921671018275" p25="0.5971018276762402" p26="100" p27="0" p28="1000" p29="1" p30="0" p31="0" p32="1000" p33="1" p34="0" p35="0.34375" p36="0.01" p37="0.29999999999999999" p38="0" p39="-1.5" p40="0" p41="0" p42="1" p43="0" p44="0" p45="0" p46="12" p47="-12" p48="0" p49="6" p50="4.1541406249999993" p51="31.25" p52="89.84375" p53="2.5087499999999996" p54="68.75" p55="7.8125" p56="375" p57="50" p58="3750" p59="0" p60="3" p61="0" p62="0" p63="0" p64="0" p65="0" p66="75" p67="0" p68="150" p69="0" p70="1.640625" p71="0" p72="0" p73="9" p74="0" p75="0.10000000000000001" p76="0" p77="0" p78="0" p79="0" p80="0" p81="4" p82="80" p83="100" p84="0" p85="0" p86="0"/>
+    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <internalDSPState/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="5">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="new_script_wizard_enabled" value="0"/>
+                    <p3 name="skin_scanner_enabled" value="0"/>
+                    <p4 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
