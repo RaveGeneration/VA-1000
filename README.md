@@ -1,2 +1,2 @@
-<img width="1800" height="1309" alt="va1k screen 116" src="https://github.com/user-attachments/assets/d18fb239-8d0d-478b-b2bb-710244e1ca2d" />
-<img width="1800" height="1309" alt="va1kFX screen 116" src="https://github.com/user-attachments/assets/634fdd38-a6a8-49fd-970c-3cc7e0d50fda" />
+<img width="1800" height="1309" alt="va1000 screen 117 180pr" src="https://github.com/user-attachments/assets/c66147ce-8a62-48d2-95c2-66ee92979815" />
+<img width="1800" height="1309" alt="va1000fx screen 117 180pr" src="https://github.com/user-attachments/assets/fe08d858-f873-4453-b5f9-6d8cdd4eb5b1" />
